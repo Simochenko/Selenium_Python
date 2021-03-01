@@ -9,6 +9,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 def calc(x):
     return str(math.log(abs(12 * math.sin(int(x)))))
 
+
 try:
     browser = webdriver.Chrome()
     browser.get("http://suninjuly.github.io/explicit_wait2.html")
