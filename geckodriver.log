@@ -23,3 +23,8 @@ JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1615473792110	geckodriver	INFO	Listening on 127.0.0.1:50378
+1615473792671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSV\\AppData\\Local\\Temp\\rust_mozprofile7LVUhJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615473796119	Marionette	INFO	Listening on port 50384
+1615473796361	Marionette	WARN	TLS certificate errors will be ignored for this session
